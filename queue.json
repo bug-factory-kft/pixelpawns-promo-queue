@@ -1,14 +1,5 @@
 [
  {
-  "id": "20260826-6c1919",
-  "kind": "spotlight",
-  "title": "Piece spotlight: the Knight has three different execution routines and the game picks one at random - pixel art tactics chess where every capture is an animated duel",
-  "text": "Pixel Pawns is battle-forged pixel art chess on the Microsoft Store: every capture is fought out on the board as a hand-animated duel instead of the piece just quietly vanishing.\n\nThe Knight is the showiest attacker in the set. It can run you through with a couched lance at full gallop, ride you down and trample you under the horse, or take your head off with a sabre cut from the saddle - and the game rolls which one you get, so the same capture rarely looks the same twice.\n\nPlay it against the AI across four difficulty levels (Squire, Knight, Captain, Warlord) or hot-seat against a friend.\n\nhttps://apps.microsoft.com/detail/9PP9G5CQKKZX",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260826-6c1919.png",
-  "flair": "",
-  "created": "2026-08-26T08:37:50+00:00"
- },
- {
   "id": "20260829-95af19",
   "kind": "faceoff",
   "title": "Duel of the day: pawn takes queen has its own hand-written fight scene - she starts casting, his shield gets there first. An animated chess game for Windows PC.",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260829-95af19.png",
   "flair": "",
   "created": "2026-08-29T06:49:07+00:00"
+ },
+ {
+  "id": "20260831-c5efe5",
+  "kind": "scene",
+  "title": "34 capture match-ups in this indie chess game each have their own named death scene - The Tower Is Unmade, The Mitre Rolls, Backhanded Into Oblivion",
+  "text": "Pixel Pawns is a retro pixel chess game where the board stops on a capture and the two pieces settle it themselves. 34 attacker-victim match-ups have their own name and pull the matching routine out of the attacker's own move set: the king's great cleave, the rook's two-fisted ground-pound, the queen's petrifying flick of the wrist. A few pairs get an extra hand-staged opening on top - two pawns cross blades twice before one of them finds the gap. The animated chess battles run in the same engine that draws the board, so this pixel art strategy game holds together as one piece of art; play it as two player chess on one keyboard, or against four AI levels from Squire to Warlord.\n\nhttps://apps.microsoft.com/detail/9PP9G5CQKKZX",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260831-c5efe5.png",
+  "flair": "",
+  "created": "2026-08-31T19:55:10+00:00"
  }
 ]
