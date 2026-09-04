@@ -1,14 +1,5 @@
 [
  {
-  "id": "20260831-c5efe5",
-  "kind": "scene",
-  "title": "34 capture match-ups in this indie chess game each have their own named death scene - The Tower Is Unmade, The Mitre Rolls, Backhanded Into Oblivion",
-  "text": "Pixel Pawns is a retro pixel chess game where the board stops on a capture and the two pieces settle it themselves. 34 attacker-victim match-ups have their own name and pull the matching routine out of the attacker's own move set: the king's great cleave, the rook's two-fisted ground-pound, the queen's petrifying flick of the wrist. A few pairs get an extra hand-staged opening on top - two pawns cross blades twice before one of them finds the gap. The animated chess battles run in the same engine that draws the board, so this pixel art strategy game holds together as one piece of art; play it as two player chess on one keyboard, or against four AI levels from Squire to Warlord.\n\nhttps://apps.microsoft.com/detail/9PP9G5CQKKZX",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260831-c5efe5.png",
-  "flair": "",
-  "created": "2026-08-31T19:55:10+00:00"
- },
- {
   "id": "20260901-71d37d",
   "kind": "tip",
   "title": "A chess strategy quirk in this animated chess game: the easiest AI picks semi-randomly among its near-best moves, but the dice are skipped the moment a forced mate is on the board",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260901-71d37d.png",
   "flair": "",
   "created": "2026-09-01T17:15:07+00:00"
+ },
+ {
+  "id": "20260904-8343b3",
+  "kind": "meme",
+  "title": "Small detail in my pixel art chess game: the victory animation is graded by who you just captured - take a pawn and you get a clipped salute, take the queen and the piece gets the full dance",
+  "text": "This is chess where the pieces fight: every capture cuts away to a hand-animated duel, and the flourish afterwards depends on the rank of the victim. Pawn, knight or bishop and the winner's salute is cut off at 0.55 seconds; rook or queen and it plays the whole celebration clip. Nobody asked for that level of pettiness, but it is in there. It is a hotseat chess game for Windows too, offline with no ads. On the Microsoft Store: https://apps.microsoft.com/detail/9PP9G5CQKKZX",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260904-8343b3.png",
+  "flair": "",
+  "created": "2026-09-04T15:28:23+00:00"
  }
 ]
