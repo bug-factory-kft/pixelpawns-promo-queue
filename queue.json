@@ -1,14 +1,5 @@
 [
  {
-  "id": "20260901-71d37d",
-  "kind": "tip",
-  "title": "A chess strategy quirk in this animated chess game: the easiest AI picks semi-randomly among its near-best moves, but the dice are skipped the moment a forced mate is on the board",
-  "text": "Pixel Pawns has four chess AI levels - Squire, Knight, Captain (the default) and Warlord. Squire searches a single move ahead and then picks at random among everything within about a pawn of its best line, so it rarely plays the same game twice, while Warlord searches as deep as its clock allows and barely wavers. The random pick is skipped on mate scores at every level, so even the Squire takes a mate in one the moment you leave it on the board. The knight up there is procedural pixel art, drawn by the game engine itself.\n\nhttps://apps.microsoft.com/detail/9PP9G5CQKKZX",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260901-71d37d.png",
-  "flair": "",
-  "created": "2026-09-01T17:15:07+00:00"
- },
- {
   "id": "20260904-8343b3",
   "kind": "meme",
   "title": "Small detail in my pixel art chess game: the victory animation is graded by who you just captured - take a pawn and you get a clipped salute, take the queen and the piece gets the full dance",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260904-8343b3.png",
   "flair": "",
   "created": "2026-09-04T15:28:23+00:00"
+ },
+ {
+  "id": "20260906-1873a8",
+  "kind": "spotlight",
+  "title": "Pixel Pawns: chess where every capture is an animated duel (23-second trailer)",
+  "text": "Pixel Pawns is our pixel-art chess for Windows PC: classic chess rules, but every capture turns into an animated duel between the two pieces. Here is the 23-second trailer: https://youtu.be/kg31aqvjqZw\n\nMicrosoft Store: https://apps.microsoft.com/detail/9PP9G5CQKKZX\nWebsite: https://pixelpawns.bugfactory.hu",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260906-1873a8.png",
+  "flair": "",
+  "created": "2026-09-06T16:18:50+00:00"
  }
 ]
