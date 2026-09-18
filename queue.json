@@ -1,14 +1,5 @@
 [
  {
-  "id": "20260904-8343b3",
-  "kind": "meme",
-  "title": "Small detail in my pixel art chess game: the victory animation is graded by who you just captured - take a pawn and you get a clipped salute, take the queen and the piece gets the full dance",
-  "text": "This is chess where the pieces fight: every capture cuts away to a hand-animated duel, and the flourish afterwards depends on the rank of the victim. Pawn, knight or bishop and the winner's salute is cut off at 0.55 seconds; rook or queen and it plays the whole celebration clip. Nobody asked for that level of pettiness, but it is in there. It is a hotseat chess game for Windows too, offline with no ads. On the Microsoft Store: https://apps.microsoft.com/detail/9PP9G5CQKKZX",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260904-8343b3.png",
-  "flair": "",
-  "created": "2026-09-04T15:28:23+00:00"
- },
- {
   "id": "20260906-1873a8",
   "kind": "spotlight",
   "title": "Pixel Pawns: chess where every capture is an animated duel (23-second trailer)",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260906-1873a8.png",
   "flair": "",
   "created": "2026-09-06T16:18:50+00:00"
+ },
+ {
+  "id": "20260918-d37157",
+  "kind": "spotlight",
+  "title": "The last of 17 duels: queen takes bishop, checkmate (one full AI vs AI chess match in Pixel Pawns)",
+  "text": "We let the game's own AI play a full chess match against itself and kept every capture: 17 animated duels, ending with this one, queen takes bishop on d6, checkmate for Ivory. Every move is a legal move from the real game; both sides are the built-in AI. The full 17-duel cut is on our YouTube channel as a Short. Pixel Pawns is pixel-art chess where every capture is a duel, on Windows PC and Xbox. Microsoft Store: https://apps.microsoft.com/detail/9PP9G5CQKKZX?cid=rd",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260918-d37157.gif",
+  "flair": "",
+  "created": "2026-09-18T08:28:39+00:00"
  }
 ]
