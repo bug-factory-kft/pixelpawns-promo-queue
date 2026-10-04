@@ -1,14 +1,5 @@
 [
  {
-  "id": "20260918-d37157",
-  "kind": "spotlight",
-  "title": "The last of 17 duels: queen takes bishop, checkmate (one full AI vs AI chess match in Pixel Pawns)",
-  "text": "We let the game's own AI play a full chess match against itself and kept every capture: 17 animated duels, ending with this one, queen takes bishop on d6, checkmate for Ivory. Every move is a legal move from the real game; both sides are the built-in AI. The full 17-duel cut is on our YouTube channel as a Short. Pixel Pawns is pixel-art chess where every capture is a duel, on Windows PC and Xbox. Microsoft Store: https://apps.microsoft.com/detail/9PP9G5CQKKZX?cid=rd",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260918-d37157.gif",
-  "flair": "",
-  "created": "2026-09-18T08:28:39+00:00"
- },
- {
   "id": "20260926-2c5e48",
   "kind": "promo",
   "title": "Bishop takes rook, then the rook mates: the last two moves of an AI vs AI match in Pixel Pawns (pixel art chess, Microsoft Store)",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260926-2c5e48.gif",
   "flair": "",
   "created": "2026-09-26T08:23:31+00:00"
+ },
+ {
+  "id": "20261004-8a64fe",
+  "kind": "promo",
+  "title": "Checkmate or stalemate? Two endgame positions in Pixel Pawns, our pixel-art chess game where every capture is a duel",
+  "text": "Two set-up positions, each finished with one legal capture in the game. In the first, the rook takes on d8 and the king has nowhere to go: checkmate. In the second, the bishop takes the last knight, the king is not in check but has no legal move: stalemate, so the game calls a draw. The CHECKMATE and DRAW banners are the game's own end screens. Pixel Pawns is full-rules chess with animated capture duels, four AI levels and hotseat, fully offline.\n\nMicrosoft Store (Windows PC and Xbox): https://apps.microsoft.com/detail/9PP9G5CQKKZX?cid=rd",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20261004-8a64fe.gif",
+  "flair": "",
+  "created": "2026-10-04T14:18:07+00:00"
  }
 ]
