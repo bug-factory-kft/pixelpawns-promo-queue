@@ -1,14 +1,5 @@
 [
  {
-  "id": "20260926-2c5e48",
-  "kind": "promo",
-  "title": "Bishop takes rook, then the rook mates: the last two moves of an AI vs AI match in Pixel Pawns (pixel art chess, Microsoft Store)",
-  "text": "Both sides are played by the game's own AI at different chess AI levels, and every capture plays out as an animated chess duel drawn by the engine. Here the bishop takes the rook on e7 with check, and two plies later the rook lands on g8 for checkmate. Pixel Pawns runs offline on Windows PC and Xbox (Xbox controller chess supported), with hotseat two player chess too.\n\nPixel Pawns on the Microsoft Store: https://apps.microsoft.com/detail/9PP9G5CQKKZX?cid=rd",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20260926-2c5e48.gif",
-  "flair": "",
-  "created": "2026-09-26T08:23:31+00:00"
- },
- {
   "id": "20261004-8a64fe",
   "kind": "promo",
   "title": "Checkmate or stalemate? Two endgame positions in Pixel Pawns, our pixel-art chess game where every capture is a duel",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20261004-8a64fe.gif",
   "flair": "",
   "created": "2026-10-04T14:18:07+00:00"
+ },
+ {
+  "id": "20261005-f3adc1",
+  "kind": "spotlight",
+  "title": "Knight takes the bishop with check, and a pawn takes the knight right back (AI vs AI, real moves)",
+  "text": "Two consecutive moves from one AI-vs-AI match: the white knight takes the bishop on d6 with check (Nxd6+), and the black pawn on c7 takes the knight on the same square (cxd6). Both sides are played by the game's own AI; every move is legal and every animation is the engine's own.\n\nPixel Pawns on the Microsoft Store: https://apps.microsoft.com/detail/9PP9G5CQKKZX?cid=rd",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20261005-f3adc1.gif",
+  "flair": "",
+  "created": "2026-10-05T08:21:19+00:00"
  }
 ]
