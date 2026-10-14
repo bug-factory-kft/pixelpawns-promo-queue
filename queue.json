@@ -1,14 +1,5 @@
 [
  {
-  "id": "20261004-8a64fe",
-  "kind": "promo",
-  "title": "Checkmate or stalemate? Two endgame positions in Pixel Pawns, our pixel-art chess game where every capture is a duel",
-  "text": "Two set-up positions, each finished with one legal capture in the game. In the first, the rook takes on d8 and the king has nowhere to go: checkmate. In the second, the bishop takes the last knight, the king is not in check but has no legal move: stalemate, so the game calls a draw. The CHECKMATE and DRAW banners are the game's own end screens. Pixel Pawns is full-rules chess with animated capture duels, four AI levels and hotseat, fully offline.\n\nMicrosoft Store (Windows PC and Xbox): https://apps.microsoft.com/detail/9PP9G5CQKKZX?cid=rd",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20261004-8a64fe.gif",
-  "flair": "",
-  "created": "2026-10-04T14:18:07+00:00"
- },
- {
   "id": "20261005-f3adc1",
   "kind": "spotlight",
   "title": "Knight takes the bishop with check, and a pawn takes the knight right back (AI vs AI, real moves)",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20261005-f3adc1.gif",
   "flair": "",
   "created": "2026-10-05T08:21:19+00:00"
+ },
+ {
+  "id": "20261014-e972a6",
+  "kind": "tip",
+  "title": "En passant in a pixel art chess game: the pawn that just moved two squares gets captured, and the capture plays out as a duel",
+  "text": "En passant is the chess rule that looks like a bug: a pawn that has just moved two squares can be captured by the enemy pawn beside it, as if it had moved only one square. In Pixel Pawns, our pixel art strategy game, that capture plays out as one of its animated chess battles, with the game's own sound effects. The opening moves (1.e4 c6 2.e5 d5 3.exd6) were set up for this clip, and every move is legal in the real game. Pixel Pawns is offline chess with no ads, with four chess AI levels and hotseat for two players.\n\nMicrosoft Store (Windows PC, Xbox): https://apps.microsoft.com/detail/9PP9G5CQKKZX\nGoogle Play (Android): https://play.google.com/store/apps/details?id=hu.bugfactory.pixelpawns",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20261014-e972a6.gif",
+  "flair": "",
+  "created": "2026-10-14T08:30:15+00:00"
  }
 ]
