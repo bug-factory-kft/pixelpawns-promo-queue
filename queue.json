@@ -1,14 +1,5 @@
 [
  {
-  "id": "20261005-f3adc1",
-  "kind": "spotlight",
-  "title": "Knight takes the bishop with check, and a pawn takes the knight right back (AI vs AI, real moves)",
-  "text": "Two consecutive moves from one AI-vs-AI match: the white knight takes the bishop on d6 with check (Nxd6+), and the black pawn on c7 takes the knight on the same square (cxd6). Both sides are played by the game's own AI; every move is legal and every animation is the engine's own.\n\nPixel Pawns on the Microsoft Store: https://apps.microsoft.com/detail/9PP9G5CQKKZX?cid=rd",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20261005-f3adc1.gif",
-  "flair": "",
-  "created": "2026-10-05T08:21:19+00:00"
- },
- {
   "id": "20261014-e972a6",
   "kind": "tip",
   "title": "En passant in a pixel art chess game: the pawn that just moved two squares gets captured, and the capture plays out as a duel",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20261014-e972a6.gif",
   "flair": "",
   "created": "2026-10-14T08:30:15+00:00"
+ },
+ {
+  "id": "20261027-005ca5",
+  "kind": "promo",
+  "title": "Queen vs king in a pixel art chess game: the queen gives check, the king takes her himself, and it's mate one move later (AI vs AI, real moves)",
+  "text": "A real match in Pixel Pawns from the normal starting position, both sides played by the game's own AI at the CAPTAIN level. With mate coming, the dark queen gave a desperate check on b1, nothing guarded her, and the king took her in one of the game's chess duel animations: 34... Qb1+ 35. Kxb1 e5 36. Qh7#. Every capture in this pixel art strategy game plays out as an animated duel, with four chess AI levels and hotseat for two players.\n\nPixel Pawns on the Microsoft Store: https://apps.microsoft.com/detail/9PP9G5CQKKZX",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/pixelpawns-promo-queue/main/img-20261027-005ca5.png",
+  "flair": "",
+  "created": "2026-10-27T09:34:10+00:00"
  }
 ]
